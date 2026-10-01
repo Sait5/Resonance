@@ -26,7 +26,7 @@ const SETS: Record<InstrumentId, Note[]> = {
   acoustic: [{note:"E2",key:"A",midi:40},{note:"A2",key:"S",midi:45},{note:"D3",key:"D",midi:50},{note:"G3",key:"F",midi:55},{note:"B3",key:"G",midi:59},{note:"E4",key:"H",midi:64}],
   electric: PLAYABLE.electric.map((midi,i)=>({note:noteName(midi),midi,key:"ASDFGH"[i]})),
   bass: PLAYABLE.bass.map((midi,i)=>({note:noteName(midi),midi,key:"ASDF"[i]})),
-  drums: [{note:"Kick",key:"A",midi:36},{note:"Snare",key:"S",midi:38},{note:"Hi-hat",key:"D",midi:42},{note:"Open HH",key:"F",midi:46},{note:"Tom 1",key:"G",midi:45},{note:"Tom 2",key:"H",midi:47},{note:"Ride",key:"J",midi:51},{note:"Crash",key:"K",midi:49},{note:"Floor Tom",key:"L",midi:43}],
+  drums: [{note:"Kick",key:"A",midi:36},{note:"Snare",key:"S",midi:38},{note:"Hi-hat",key:"D",midi:42},{note:"Open HH",key:"F",midi:46},{note:"Tom 1",key:"G",midi:45},{note:"Tom 2",key:"H",midi:47},{note:"Floor Tom",key:"L",midi:43},{note:"Crash",key:"K",midi:49},{note:"Ride",key:"J",midi:51}],
   violin: PLAYABLE.violin.map((midi,i)=>({note:noteName(midi),midi,key:"ASDF"[i]})),
   saxophone: PLAYABLE.saxophone.map((midi,i)=>({note:noteName(midi),midi,key:"ASDFGHJK"[i]})),
   trumpet: PLAYABLE.trumpet.map((midi,i)=>({note:noteName(midi),midi,key:"ASDFGHJKL;QW"[i]})),
