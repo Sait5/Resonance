@@ -1,0 +1,3 @@
+University of Iowa Musical Instrument Samples. Lawrence Fritts / Electronic Music Studios. Performer: Michael Giles. Alto saxophone, without vibrato. Source: https://theremin.music.uiowa.edu/sound%20files/MIS%20Pitches%20-%202014/Woodwinds/Eb%20Alto%20Saxophone/
+License statement: https://theremin.music.uiowa.edu/mis.html — recordings may be downloaded and used for any projects, without restrictions.
+Derived files: stereo AIFF downmixed to mono PCM WAV, silence trimmed, short fades, peak attenuation where needed. No pitch shifting for the eight mapped notes.

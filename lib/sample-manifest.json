@@ -1,0 +1,423 @@
+{
+  "piano": [
+    {
+      "midi": 24,
+      "url": "/audio/piano/C1.mp3",
+      "bytes": 279228
+    },
+    {
+      "midi": 27,
+      "url": "/audio/piano/Ds1.mp3",
+      "bytes": 312406
+    },
+    {
+      "midi": 30,
+      "url": "/audio/piano/Fs1.mp3",
+      "bytes": 389404
+    },
+    {
+      "midi": 33,
+      "url": "/audio/piano/A1.mp3",
+      "bytes": 382518
+    },
+    {
+      "midi": 36,
+      "url": "/audio/piano/C2.mp3",
+      "bytes": 429468
+    },
+    {
+      "midi": 39,
+      "url": "/audio/piano/Ds2.mp3",
+      "bytes": 374380
+    },
+    {
+      "midi": 42,
+      "url": "/audio/piano/Fs2.mp3",
+      "bytes": 309902
+    },
+    {
+      "midi": 45,
+      "url": "/audio/piano/A2.mp3",
+      "bytes": 230400
+    },
+    {
+      "midi": 48,
+      "url": "/audio/piano/C3.mp3",
+      "bytes": 262326
+    },
+    {
+      "midi": 51,
+      "url": "/audio/piano/Ds3.mp3",
+      "bytes": 186580
+    },
+    {
+      "midi": 54,
+      "url": "/audio/piano/Fs3.mp3",
+      "bytes": 233530
+    },
+    {
+      "midi": 57,
+      "url": "/audio/piano/A3.mp3",
+      "bytes": 200352
+    },
+    {
+      "midi": 60,
+      "url": "/audio/piano/C4.mp3",
+      "bytes": 239164
+    },
+    {
+      "midi": 63,
+      "url": "/audio/piano/Ds4.mp3",
+      "bytes": 209742
+    },
+    {
+      "midi": 66,
+      "url": "/audio/piano/Fs4.mp3",
+      "bytes": 161540
+    },
+    {
+      "midi": 69,
+      "url": "/audio/piano/A4.mp3",
+      "bytes": 159036
+    },
+    {
+      "midi": 72,
+      "url": "/audio/piano/C5.mp3",
+      "bytes": 177190
+    },
+    {
+      "midi": 75,
+      "url": "/audio/piano/Ds5.mp3",
+      "bytes": 135874
+    },
+    {
+      "midi": 78,
+      "url": "/audio/piano/Fs5.mp3",
+      "bytes": 169052
+    },
+    {
+      "midi": 81,
+      "url": "/audio/piano/A5.mp3",
+      "bytes": 122728
+    },
+    {
+      "midi": 84,
+      "url": "/audio/piano/C6.mp3",
+      "bytes": 100192
+    },
+    {
+      "midi": 87,
+      "url": "/audio/piano/Ds6.mp3",
+      "bytes": 107704
+    },
+    {
+      "midi": 90,
+      "url": "/audio/piano/Fs6.mp3",
+      "bytes": 60128
+    },
+    {
+      "midi": 93,
+      "url": "/audio/piano/A6.mp3",
+      "bytes": 70144
+    },
+    {
+      "midi": 96,
+      "url": "/audio/piano/C7.mp3",
+      "bytes": 58876
+    },
+    {
+      "midi": 99,
+      "url": "/audio/piano/Ds7.mp3",
+      "bytes": 70144
+    },
+    {
+      "midi": 102,
+      "url": "/audio/piano/Fs7.mp3",
+      "bytes": 54494
+    },
+    {
+      "midi": 105,
+      "url": "/audio/piano/A7.mp3",
+      "bytes": 54494
+    },
+    {
+      "midi": 107,
+      "url": "/audio/piano/B7.mp3",
+      "bytes": 58876
+    }
+  ],
+  "acoustic": [
+    {
+      "midi": 40,
+      "url": "/audio/acoustic/E2.mp3",
+      "bytes": 260448
+    },
+    {
+      "midi": 45,
+      "url": "/audio/acoustic/A2.mp3",
+      "bytes": 276724
+    },
+    {
+      "midi": 50,
+      "url": "/audio/acoustic/D3.mp3",
+      "bytes": 308024
+    },
+    {
+      "midi": 55,
+      "url": "/audio/acoustic/G3.mp3",
+      "bytes": 137752
+    },
+    {
+      "midi": 59,
+      "url": "/audio/acoustic/B3.mp3",
+      "bytes": 120850
+    },
+    {
+      "midi": 64,
+      "url": "/audio/acoustic/E4.mp3",
+      "bytes": 109582
+    }
+  ],
+  "electric": [
+    {
+      "midi": 40,
+      "url": "/audio/electric/E2.mp3",
+      "bytes": 102696
+    },
+    {
+      "midi": 45,
+      "url": "/audio/electric/A2.mp3",
+      "bytes": 102696
+    },
+    {
+      "midi": 48,
+      "url": "/audio/electric/C3.mp3",
+      "bytes": 102696
+    },
+    {
+      "midi": 51,
+      "url": "/audio/electric/Ds3.mp3",
+      "bytes": 102696
+    },
+    {
+      "midi": 54,
+      "url": "/audio/electric/Fs3.mp3",
+      "bytes": 102696
+    },
+    {
+      "midi": 57,
+      "url": "/audio/electric/A3.mp3",
+      "bytes": 102696
+    },
+    {
+      "midi": 60,
+      "url": "/audio/electric/C4.mp3",
+      "bytes": 102696
+    },
+    {
+      "midi": 63,
+      "url": "/audio/electric/Ds4.mp3",
+      "bytes": 102696
+    },
+    {
+      "midi": 66,
+      "url": "/audio/electric/Fs4.mp3",
+      "bytes": 102696
+    }
+  ],
+  "bass": [
+    {
+      "midi": 28,
+      "url": "/audio/bass/E1.mp3",
+      "bytes": 450752
+    },
+    {
+      "midi": 31,
+      "url": "/audio/bass/G1.mp3",
+      "bytes": 428216
+    },
+    {
+      "midi": 34,
+      "url": "/audio/bass/As1.mp3",
+      "bytes": 405680
+    },
+    {
+      "midi": 37,
+      "url": "/audio/bass/Cs2.mp3",
+      "bytes": 361234
+    },
+    {
+      "midi": 40,
+      "url": "/audio/bass/E2.mp3",
+      "bytes": 316162
+    },
+    {
+      "midi": 43,
+      "url": "/audio/bass/G2.mp3",
+      "bytes": 316162
+    }
+  ],
+  "violin": [
+    {
+      "midi": 57,
+      "url": "/audio/violin/A3.mp3",
+      "bytes": 390656
+    },
+    {
+      "midi": 60,
+      "url": "/audio/violin/C4.mp3",
+      "bytes": 318666
+    },
+    {
+      "midi": 64,
+      "url": "/audio/violin/E4.mp3",
+      "bytes": 329934
+    },
+    {
+      "midi": 69,
+      "url": "/audio/violin/A4.mp3",
+      "bytes": 339950
+    },
+    {
+      "midi": 72,
+      "url": "/audio/violin/C5.mp3",
+      "bytes": 341202
+    },
+    {
+      "midi": 76,
+      "url": "/audio/violin/E5.mp3",
+      "bytes": 323048
+    }
+  ],
+  "saxophone": [
+    {
+      "midi": 51,
+      "url": "/audio/saxophone/iowa-Eb3.wav",
+      "bytes": 258020
+    },
+    {
+      "midi": 53,
+      "url": "/audio/saxophone/iowa-F3.wav",
+      "bytes": 237004
+    },
+    {
+      "midi": 55,
+      "url": "/audio/saxophone/iowa-G3.wav",
+      "bytes": 229942
+    },
+    {
+      "midi": 56,
+      "url": "/audio/saxophone/iowa-Ab3.wav",
+      "bytes": 220298
+    },
+    {
+      "midi": 58,
+      "url": "/audio/saxophone/iowa-Bb3.wav",
+      "bytes": 235652
+    },
+    {
+      "midi": 60,
+      "url": "/audio/saxophone/iowa-C4.wav",
+      "bytes": 212034
+    },
+    {
+      "midi": 62,
+      "url": "/audio/saxophone/iowa-D4.wav",
+      "bytes": 237230
+    },
+    {
+      "midi": 63,
+      "url": "/audio/saxophone/iowa-Eb4.wav",
+      "bytes": 215258
+    }
+  ],
+  "trumpet": [
+    {
+      "midi": 53,
+      "url": "/audio/trumpet/F3.mp3",
+      "bytes": 104574
+    },
+    {
+      "midi": 57,
+      "url": "/audio/trumpet/A3.mp3",
+      "bytes": 113964
+    },
+    {
+      "midi": 60,
+      "url": "/audio/trumpet/C4.mp3",
+      "bytes": 112086
+    },
+    {
+      "midi": 63,
+      "url": "/audio/trumpet/Ds4.mp3",
+      "bytes": 165922
+    },
+    {
+      "midi": 65,
+      "url": "/audio/trumpet/F4.mp3",
+      "bytes": 134622
+    },
+    {
+      "midi": 67,
+      "url": "/audio/trumpet/G4.mp3",
+      "bytes": 174060
+    },
+    {
+      "midi": 70,
+      "url": "/audio/trumpet/As4.mp3",
+      "bytes": 154028
+    },
+    {
+      "midi": 74,
+      "url": "/audio/trumpet/D5.mp3",
+      "bytes": 136500
+    }
+  ],
+  "drums": [
+    {
+      "midi": 36,
+      "url": "/audio/drums/drum_heavy_kick.flac",
+      "bytes": 19715
+    },
+    {
+      "midi": 38,
+      "url": "/audio/drums/drum_snare_hard.flac",
+      "bytes": 29657
+    },
+    {
+      "midi": 42,
+      "url": "/audio/drums/drum_cymbal_closed.flac",
+      "bytes": 20943
+    },
+    {
+      "midi": 43,
+      "url": "/audio/drums/drum_tom_lo_hard.flac",
+      "bytes": 43852
+    },
+    {
+      "midi": 45,
+      "url": "/audio/drums/drum_tom_mid_hard.flac",
+      "bytes": 35726
+    },
+    {
+      "midi": 46,
+      "url": "/audio/drums/drum_cymbal_open.flac",
+      "bytes": 119223
+    },
+    {
+      "midi": 47,
+      "url": "/audio/drums/drum_tom_hi_hard.flac",
+      "bytes": 34839
+    },
+    {
+      "midi": 49,
+      "url": "/audio/drums/drum_splash_hard.flac",
+      "bytes": 149979
+    },
+    {
+      "midi": 51,
+      "url": "/audio/drums/drum_cymbal_soft.flac",
+      "bytes": 59794
+    }
+  ]
+}

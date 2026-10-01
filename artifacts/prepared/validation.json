@@ -1,0 +1,181 @@
+{
+  "piano": {
+    "parts": [
+      "Piano_Key_A0",
+      "Piano_Key_A1",
+      "Piano_Key_A2",
+      "Piano_Key_A3",
+      "Piano_Key_A4",
+      "Piano_Key_A5",
+      "Piano_Key_A6",
+      "Piano_Key_A7",
+      "Piano_Key_ASharp0",
+      "Piano_Key_ASharp1",
+      "Piano_Key_ASharp2",
+      "Piano_Key_ASharp3",
+      "Piano_Key_ASharp4",
+      "Piano_Key_ASharp5",
+      "Piano_Key_ASharp6",
+      "Piano_Key_ASharp7",
+      "Piano_Key_B0",
+      "Piano_Key_B1",
+      "Piano_Key_B2",
+      "Piano_Key_B3",
+      "Piano_Key_B4",
+      "Piano_Key_B5",
+      "Piano_Key_B6",
+      "Piano_Key_B7",
+      "Piano_Key_C1",
+      "Piano_Key_C2",
+      "Piano_Key_C3",
+      "Piano_Key_C4",
+      "Piano_Key_C5",
+      "Piano_Key_C6",
+      "Piano_Key_C7",
+      "Piano_Key_C8",
+      "Piano_Key_CSharp1",
+      "Piano_Key_CSharp2",
+      "Piano_Key_CSharp3",
+      "Piano_Key_CSharp4",
+      "Piano_Key_CSharp5",
+      "Piano_Key_CSharp6",
+      "Piano_Key_CSharp7",
+      "Piano_Key_D1",
+      "Piano_Key_D2",
+      "Piano_Key_D3",
+      "Piano_Key_D4",
+      "Piano_Key_D5",
+      "Piano_Key_D6",
+      "Piano_Key_D7",
+      "Piano_Key_DSharp1",
+      "Piano_Key_DSharp2",
+      "Piano_Key_DSharp3",
+      "Piano_Key_DSharp4",
+      "Piano_Key_DSharp5",
+      "Piano_Key_DSharp6",
+      "Piano_Key_DSharp7",
+      "Piano_Key_E1",
+      "Piano_Key_E2",
+      "Piano_Key_E3",
+      "Piano_Key_E4",
+      "Piano_Key_E5",
+      "Piano_Key_E6",
+      "Piano_Key_E7",
+      "Piano_Key_F1",
+      "Piano_Key_F2",
+      "Piano_Key_F3",
+      "Piano_Key_F4",
+      "Piano_Key_F5",
+      "Piano_Key_F6",
+      "Piano_Key_F7",
+      "Piano_Key_FSharp1",
+      "Piano_Key_FSharp2",
+      "Piano_Key_FSharp3",
+      "Piano_Key_FSharp4",
+      "Piano_Key_FSharp5",
+      "Piano_Key_FSharp6",
+      "Piano_Key_FSharp7",
+      "Piano_Key_G1",
+      "Piano_Key_G2",
+      "Piano_Key_G3",
+      "Piano_Key_G4",
+      "Piano_Key_G5",
+      "Piano_Key_G6",
+      "Piano_Key_G7",
+      "Piano_Key_GSharp1",
+      "Piano_Key_GSharp2",
+      "Piano_Key_GSharp3",
+      "Piano_Key_GSharp4",
+      "Piano_Key_GSharp5",
+      "Piano_Key_GSharp6",
+      "Piano_Key_GSharp7"
+    ],
+    "bytes": 164568,
+    "roundTripVerified": true
+  },
+  "acoustic": {
+    "parts": [
+      "Guitar_String_A2",
+      "Guitar_String_B3",
+      "Guitar_String_D3",
+      "Guitar_String_E2",
+      "Guitar_String_E4",
+      "Guitar_String_G3"
+    ],
+    "bytes": 1253896,
+    "roundTripVerified": true
+  },
+  "violin": {
+    "parts": [
+      "Violin_Bow",
+      "Violin_String_A4",
+      "Violin_String_D4",
+      "Violin_String_E5",
+      "Violin_String_G3"
+    ],
+    "bytes": 1630048,
+    "roundTripVerified": true
+  },
+  "trumpet": {
+    "parts": [
+      "Trumpet_Valve_01",
+      "Trumpet_Valve_02",
+      "Trumpet_Valve_03"
+    ],
+    "bytes": 71252,
+    "roundTripVerified": true
+  },
+  "saxophone": {
+    "parts": [
+      "Sax_Key_01",
+      "Sax_Key_02",
+      "Sax_Key_03",
+      "Sax_Key_04",
+      "Sax_Key_05",
+      "Sax_Key_06",
+      "Sax_Key_07",
+      "Sax_Key_08",
+      "Sax_Key_09",
+      "Sax_Key_10"
+    ],
+    "bytes": 310564,
+    "roundTripVerified": true
+  },
+  "drums": {
+    "parts": [
+      "Drum_Crash",
+      "Drum_FloorTom",
+      "Drum_HiHat",
+      "Drum_Kick",
+      "Drum_OpenHiHat",
+      "Drum_Ride",
+      "Drum_Snare",
+      "Drum_Tom1",
+      "Drum_Tom2"
+    ],
+    "bytes": 179556,
+    "roundTripVerified": true
+  },
+  "electric": {
+    "parts": [
+      "Guitar_String_A2",
+      "Guitar_String_B3",
+      "Guitar_String_D3",
+      "Guitar_String_E2",
+      "Guitar_String_E4",
+      "Guitar_String_G3"
+    ],
+    "bytes": 1330632,
+    "roundTripVerified": true
+  },
+  "bass": {
+    "parts": [
+      "Bass_String_A1",
+      "Bass_String_D2",
+      "Bass_String_E1",
+      "Bass_String_G2"
+    ],
+    "bytes": 1334384,
+    "roundTripVerified": true
+  }
+}
